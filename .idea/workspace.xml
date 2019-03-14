@@ -51,13 +51,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter05/listing34/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            <state relative-caret-position="259">
+              <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
               <folding>
                 <element signature="e#14#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter05/listing35/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <element signature="e#14#40#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -99,6 +111,7 @@
         <option value="$PROJECT_DIR$/chapter04/map/main.go" />
         <option value="$PROJECT_DIR$/chapter05/listing11/main.go" />
         <option value="$PROJECT_DIR$/chapter05/listing34/main.go" />
+        <option value="$PROJECT_DIR$/chapter05/listing35/main.go" />
       </list>
     </option>
   </component>
@@ -131,7 +144,7 @@
               <item name="go-in-action-notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-in-action-notes" type="462c0819:PsiDirectoryNode" />
               <item name="chapter05" type="462c0819:PsiDirectoryNode" />
-              <item name="listing34" type="462c0819:PsiDirectoryNode" />
+              <item name="listing35" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go-in-action-notes" type="b2602c69:ProjectViewProjectNode" />
@@ -150,6 +163,11 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter05" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -220,7 +238,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.18736842" visible="true" weight="0.17689823" />
       <window_info id="Favorites" order="1" sideWeight="0.3831579" side_tool="true" weight="0.17447495" />
@@ -461,10 +478,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter05/listing34/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        <state relative-caret-position="259">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
             <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter05/listing35/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
