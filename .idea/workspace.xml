@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58210906-25a8-446a-a4d9-b2921b868bd3" name="Default Changelist" comment="" />
+    <list default="true" id="58210906-25a8-446a-a4d9-b2921b868bd3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +28,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter06/listing07/main.go">
+        <entry file="file://$PROJECT_DIR$/chapter06/listing09/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="223">
+              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+              <folding>
+                <element signature="e#14#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -38,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/chapter06/listing01/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="24" column="9" lean-forward="true" selection-end-line="43" />
+              <caret line="24" column="9" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -83,6 +88,7 @@
         <option value="$PROJECT_DIR$/chapter06/listing01/main.go" />
         <option value="$PROJECT_DIR$/chapter06/listing04/main.go" />
         <option value="$PROJECT_DIR$/chapter06/listing07/main.go" />
+        <option value="$PROJECT_DIR$/chapter06/listing09/main.go" />
       </list>
     </option>
   </component>
@@ -115,13 +121,7 @@
               <item name="go-in-action-notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-in-action-notes" type="462c0819:PsiDirectoryNode" />
               <item name="chapter06" type="462c0819:PsiDirectoryNode" />
-              <item name="listing01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="go-in-action-notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="go-in-action-notes" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter06" type="462c0819:PsiDirectoryNode" />
-              <item name="listing07" type="462c0819:PsiDirectoryNode" />
+              <item name="listing09" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go-in-action-notes" type="b2602c69:ProjectViewProjectNode" />
@@ -217,7 +217,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.18736842" visible="true" weight="0.17932148" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.18736842" visible="true" weight="0.17932148" />
       <window_info id="Favorites" order="1" sideWeight="0.3831579" side_tool="true" weight="0.17447495" />
       <window_info id="Structure" order="2" sideWeight="0.6168421" weight="0.21324718" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -230,7 +230,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49919224" weight="0.3281471" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49919224" visible="true" weight="0.19943424" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49919224" visible="true" weight="0.55162656" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50080776" side_tool="true" weight="0.3281471" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -468,6 +468,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter06/listing01/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="24" column="9" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter06/listing07/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter06/listing04/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82">
@@ -478,17 +492,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter06/listing01/main.go">
+    <entry file="file://$PROJECT_DIR$/chapter06/listing09/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="24" column="9" lean-forward="true" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter06/listing07/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="223">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
