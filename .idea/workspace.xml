@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58210906-25a8-446a-a4d9-b2921b868bd3" name="Default Changelist" comment="" />
+    <list default="true" id="58210906-25a8-446a-a4d9-b2921b868bd3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter06/listing22/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +40,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter06/listing20/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="251">
               <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
               <folding>
                 <element signature="e#139#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter06/listing22/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
+              <folding>
+                <element signature="e#14#39#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,6 +110,7 @@
         <option value="$PROJECT_DIR$/chapter06/listing16/main.go" />
         <option value="$PROJECT_DIR$/chapter06/listing20/mian.go" />
         <option value="$PROJECT_DIR$/chapter06/listing20/main.go" />
+        <option value="$PROJECT_DIR$/chapter06/listing22/main.go" />
       </list>
     </option>
   </component>
@@ -127,7 +143,7 @@
               <item name="go-in-action-notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="go-in-action-notes" type="462c0819:PsiDirectoryNode" />
               <item name="chapter06" type="462c0819:PsiDirectoryNode" />
-              <item name="listing20" type="462c0819:PsiDirectoryNode" />
+              <item name="listing22" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="go-in-action-notes" type="b2602c69:ProjectViewProjectNode" />
@@ -544,6 +560,16 @@
           <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
           <folding>
             <element signature="e#139#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter06/listing22/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="59" selection-start-line="1" selection-start-column="59" selection-end-line="1" selection-end-column="59" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
