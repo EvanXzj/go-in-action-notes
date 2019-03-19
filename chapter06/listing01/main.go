@@ -18,8 +18,8 @@ func main() {
 	go func() {
 		defer wg.Done()
 
-		for count:=0; count < 3; count++ {
-			for char := 'a'; char < 'a' + 26; char++ {
+		for count := 0; count < 3; count++ {
+			for char := 'a'; char < 'a'+26; char++ {
 				fmt.Printf("%c ", char)
 			}
 		}
@@ -28,8 +28,8 @@ func main() {
 	go func() {
 		defer wg.Done()
 
-		for count:=0; count < 3; count++ {
-			for char := 'A'; char < 'A' + 26; char++ {
+		for count := 0; count < 3; count++ {
+			for char := 'A'; char < 'A'+26; char++ {
 				fmt.Printf("%c ", char)
 			}
 		}
